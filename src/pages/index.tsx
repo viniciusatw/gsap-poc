@@ -1,7 +1,7 @@
-import { SmoothBox } from "../components/SmoothBox";
+import { Test } from "../components/Test";
 
 export default function Home(){
   return( 
-     <SmoothBox />
+     <Test />
   )
 }
